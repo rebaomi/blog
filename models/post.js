@@ -1,4 +1,4 @@
-r mongodb = require('./db'),
+var mongodb = require('./db'),
     markdown = require('markdown').markdown;
 
 function Post(name, head, title, tags, post) {
