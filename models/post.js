@@ -470,3 +470,7 @@ Post.reprint = function(reprint_from, reprint_to, callback) {
         });
       });
     });
+  });
+};
+
+
